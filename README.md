@@ -53,5 +53,5 @@ Este repositorio es un espacio de aprendizaje y experimentación. Siéntete libr
 
 ## Conectemos
 
-[![Linkedin Badge](https://img.shields.io/badge/-christianmendez-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/christiandavidmendez/)](https://www.linkedin.com/in/christiandavidmendez/)
+[![Linkedin Badge](https://img.shields.io/badge/-Christian.Mendez-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/christiandavidmendez/)](https://www.linkedin.com/in/christiandavidmendez/)
 
