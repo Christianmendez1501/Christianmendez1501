@@ -50,3 +50,8 @@ Algunas estadísticas interesantes sobre mi actividad en GitHub:
 Este repositorio es un espacio de aprendizaje y experimentación. Siéntete libre de explorar, clonar y jugar con el código. Si tienes alguna pregunta, sugerencia o simplemente quieres charlar sobre tecnología, ¡no dudes en abrir un issue o un pull request!
 
 ¡Diviértete explorando y programando! 🎉
+
+## Conectemos
+
+[![Linkedin Badge](https://img.shields.io/badge/-christianmendez-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/christiandavidmendez/)](https://www.linkedin.com/in/christiandavidmendez/)
+
