@@ -12,7 +12,7 @@
 [![vr scripts](https://badges.velociraptor.run/flat.svg)](https://velociraptor.run)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![Styled Components](https://img.shields.io/badge/-Styled_Components-db7092?style=flat-square&logo=styled-
+![Styled Components](https://img.shields.io/badge/-Styled_Components-db7092?style=flat-square&logo=styled-)
 
 ## 🛠️ Lo que encontrarás aquí:
 
