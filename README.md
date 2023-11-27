@@ -20,15 +20,6 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)
 ![BitBucket](https://img.shields.io/badge/-BitBucket-darkblue?style=flat-square&logo=bitbucket&logoColor=white)
 
-# Estadísticas de GitHub 📊
-
-Algunas estadísticas interesantes sobre mi actividad en GitHub:
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Christianmendez1501&layout=compact)
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Christianmendez1501&count_private=true&show_icons=true)
-
-
 
 ## 🛠️ Lo que encontrarás aquí:
 
@@ -45,6 +36,15 @@ Algunas estadísticas interesantes sobre mi actividad en GitHub:
 Este repositorio es un espacio de aprendizaje y experimentación. Siéntete libre de explorar, clonar y jugar con el código. Si tienes alguna pregunta, sugerencia o simplemente quieres charlar sobre tecnología, ¡no dudes en abrir un issue o un pull request!
 
 ¡Diviértete explorando y programando! 🎉
+
+# Mi estadísticas de GitHub 📊
+
+Algunas estadísticas interesantes sobre mi actividad en GitHub:
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Christianmendez1501&layout=compact)
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Christianmendez1501&count_private=true&show_icons=true)
+
 
 ## Conectemos
 
