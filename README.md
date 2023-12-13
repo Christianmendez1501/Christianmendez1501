@@ -1,7 +1,6 @@
 # ¡Bienvenido a mi Github Profile! 🚀
 
-![1](https://github.com/Christianmendez1501/Christianmendez1501/assets/143126480/8aabb13f-fb35-431c-906c-2b1df7f2a70a)
-
+![cloud ENGINEER (1)](https://github.com/Christianmendez1501/Christianmendez1501/assets/143126480/ef13f5bc-6b42-4914-9d4b-ba0334043ab8)
 
 ¡Hola, explorador del código! 👋 Este es mi rincón de experimentación, donde me divierto jugando con las últimas tecnologías y explorando todas las maravillas que Git, GitHub Actions, Docker, Google Functions y más tienen para ofrecer.
 
