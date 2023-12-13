@@ -1,5 +1,8 @@
 # ¡Bienvenido a mi Github Profile! 🚀
 
+![GIF Example]![1](https://github.com/Christianmendez1501/Christianmendez1501/assets/143126480/8aabb13f-fb35-431c-906c-2b1df7f2a70a)
+
+
 ¡Hola, explorador del código! 👋 Este es mi rincón de experimentación, donde me divierto jugando con las últimas tecnologías y explorando todas las maravillas que Git, GitHub Actions, Docker, Google Functions y más tienen para ofrecer.
 
 ## Herramientas con las que trabajo que me ayudan a redescubrir este universo del coding
