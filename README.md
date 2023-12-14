@@ -49,5 +49,5 @@ Algunas estadísticas interesantes sobre mi actividad en GitHub:
 
 ## Conectemos
 
-[![Linkedin Badge](https://img.shields.io/badge/-Christian.Mendez-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/christiandavidmendez/)](https://www.linkedin.com/in/christiandavidmendez/)
+[![Linkedin Badge](https://www.vectorlogo.zone/logos/linkedin/linkedin-tile.svg)](https://www.linkedin.com/in/christiandavidmendez/)
 
