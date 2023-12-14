@@ -56,9 +56,6 @@ Algunas estadísticas interesantes sobre mi actividad en GitHub:
 [![Christian's GitHub stats](https://github-readme-stats.vercel.app/api?username=Christianmendez1501&show_icons=true&theme=radical)](https://github.com/Christianmendez1501)
 
 
-![Hello](docs/hello.svg)
-
-
 
 
 
