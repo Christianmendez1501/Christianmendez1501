@@ -7,21 +7,23 @@
 
 ## Herramientas con las que trabajo que me ayudan a redescubrir este universo del coding
 
-![JavaScript](https://img.shields.io/badge/-JavaScript-f0d81e?style=flat-square&logo=javascript&logoColor=black)
-![Nodejs](https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white)
-![React](https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=white)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![Styled Components](https://img.shields.io/badge/-Styled_Components-db7092?style=flat-square&logo=styled-component&logoColor=whites)
-![Python](https://img.shields.io/badge/-Python-f7cc4a?style=flat-square&logo=Python&logoColor=3572a8)
-![MongoDB](https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white)
+![Styled Components](https://img.shields.io/badge/-Styled_Components-DB7093?style=flat-square&logo=styled-components&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql&logoColor=white)
-![Docker](https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white)
-![Amazon AWS](https://img.shields.io/badge/Amazon%20AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
-![Microsoft Azure](https://img.shields.io/badge/Microsoft%20Azure-232F7E?style=flat-square&logo=microsoft-azure&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-e84e32?style=flat-square&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Amazon AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
+![Microsoft Azure](https://img.shields.io/badge/Microsoft_Azure-0089D6?style=flat-square&logo=microsoft-azure&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![BitBucket](https://img.shields.io/badge/-BitBucket-darkblue?style=flat-square&logo=bitbucket&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=flat-square&logo=google-cloud&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-623CE4?style=flat-square&logo=terraform&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
+
 
 
 ## 🛠️ Lo que encontrarás aquí:
@@ -45,6 +47,10 @@ Este repositorio es un espacio de aprendizaje y experimentación. Siéntete libr
 Algunas estadísticas interesantes sobre mi actividad en GitHub:
 
 # ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Christianmendez1501&layout=compact) ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Christianmendez1501&count_private=true&show_icons=true)
+
+[![Christian's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Christianmendez1501&theme=rogue)](https://github.com/Christianmendez1501)
+
+[![Christian's GitHub stats](https://github-readme-stats.vercel.app/api?username=Christianmendez1501&show_icons=true&theme=radical)](https://github.com/Christianmendez1501)
 
 
 ## Conectemos
