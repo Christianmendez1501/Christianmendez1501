@@ -1,6 +1,7 @@
 # ![Hi](docs/hello.svg)
 
-![cloud ENGINEER (2)](https://github.com/Christianmendez1501/Christianmendez1501/assets/143126480/cb5d93be-9d76-4193-a934-ba6657cd31ee)
+![cloud ENGINEER (4)](https://github.com/Christianmendez1501/Christianmendez1501/assets/143126480/a8644a32-f5ef-4d4c-9b02-c1f6703e4a53)
+
 
 
 ¡Hola, explorador del código! 👋 Este es mi rincón de experimentación, donde me divierto jugando con las últimas tecnologías y explorando todas las maravillas que Git, GitHub Actions, Docker, Google Functions y más tienen para ofrecer.
