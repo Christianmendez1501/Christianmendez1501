@@ -44,12 +44,6 @@
 [![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/) hasta archivos de configuración en [![YAML](https://img.shields.io/badge/YAML-%23FFDAB9.svg?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxMCIgaGVpZ2h0PSIxMCIgdmlld0JveD0iMCAwIDEwIDEwIj4KICA8cGF0aCBkPSJNIDQuNzY1LjQ1N0MuOTc1LjQ1NyAwIDQuNTUyLjk3NSA0Ljc2MyAwbDQuNzYyIDQuNzYyLTQuNzY0IDQuNzYzYy0uOTc1LS45NzUtMS45NzUtLjk3NS0zLjk3NCAwLS45NzUtLjk3NS0uOTc1LTMuOTc1IDAtLjk3NSAxLjk3NS0uOTc1IDMuOTc1czEuOTc1Ljk3NSAzLjk3NSAuOTc1Ljk3NSAzLjk3NXoiLz4KPC9zdmc+Cg==)](https://yaml.org/)
 , hay un poco de todo para que te entretengas.
 
-## 🚀 ¡Empecemos!
-
-Este repositorio es un espacio de aprendizaje y experimentación. Siéntete libre de explorar, clonar y jugar con el código. Si tienes alguna pregunta, sugerencia o simplemente quieres charlar sobre tecnología, ¡no dudes en abrir un issue o un pull request!
-
-¡Diviértete explorando y programando! 🎉
-
 # Mi estadísticas de GitHub 📊
 
 Algunas estadísticas interesantes sobre mi actividad en GitHub:
@@ -58,12 +52,7 @@ Algunas estadísticas interesantes sobre mi actividad en GitHub:
 
 [![Christian's GitHub stats](https://github-readme-stats.vercel.app/api?username=Christianmendez1501&show_icons=true&theme=radical)](https://github.com/Christianmendez1501)
 
-
-
-
-
-
 ## Conectemos
 
-[![Linkedin Badge](https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg)](https://www.linkedin.com/in/christiandavidmendez/)
+[<img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" width="100">](https://www.linkedin.com/in/christiandavidmendez/)
 
