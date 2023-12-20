@@ -6,6 +6,8 @@
 
 
 
+
+
 ¡Hola, explorador del código! 👋 Este es mi rincón de experimentación, donde me divierto jugando con las últimas tecnologías y explorando todas las maravillas que Git, GitHub Actions, Docker, Google Functions y más tienen para ofrecer.
 
 ## Herramientas con las que trabajo que me ayudan a redescubrir este universo del coding
@@ -57,5 +59,5 @@ Algunas estadísticas interesantes sobre mi actividad en GitHub:
 
 ## Conectemos
 
-[<img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" width="100">](https://www.linkedin.com/in/christiandavidmendez/)
+[<img width="288" alt="Captura de pantalla 2023-12-20 a las 17 43 38" src="https://github.com/Christianmendez1501/Christianmendez1501/assets/143126480/8dfbd30b-d24c-4039-a102-8f963058c17e">](https://www.linkedin.com/in/christianmendezhernandez/)
 
