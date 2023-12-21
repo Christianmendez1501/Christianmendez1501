@@ -1,14 +1,11 @@
+<div align="center" style="margin: 20px 20px;">
+  
 # ![Hi](docs/hello.svg)
+
+</div>
 
 ![cloud ENGINEER (4)](https://github.com/Christianmendez1501/Christianmendez1501/assets/143126480/75245f3f-a445-497c-bfc3-aa764d484202)
 
-
-
-
-
-
-
-¡Hola, explorador del código! 👋 Este es mi rincón de experimentación, donde me divierto jugando con las últimas tecnologías y explorando todas las maravillas que Git, GitHub Actions, Docker, Google Functions y más tienen para ofrecer.
 
 ## Herramientas con las que trabajo que me ayudan a redescubrir este universo del coding
 
@@ -32,19 +29,6 @@
 </div>
 
 
-## 🛠️ Lo que encontrarás aquí:
-
-- **[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/):** Explora los diversos flujos de CI/CD en archivos `.yml`. Desde saludos automáticos hasta despliegues continuos, ¡hay mucho por descubrir!
-
-- **[![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)](https://www.docker.com/):** Sumérgete en el fascinante mundo de los contenedores. Encuentra Dockerfiles y archivos de configuración para desplegar aplicaciones de manera rápida y eficiente.
-
-- **[![Google Cloud Platform](https://img.shields.io/badge/Google_Cloud_Platform-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)](https://cloud.google.com/)
-:** Descubre cómo implementar y ejecutar funciones en la nube. ¡La magia de la computación sin servidor te espera!
-
-- **Scripts y Configuraciones Diversas:** Desde simples scripts en 
-[![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/) hasta archivos de configuración en [![YAML](https://img.shields.io/badge/YAML-%23FFDAB9.svg?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxMCIgaGVpZ2h0PSIxMCIgdmlld0JveD0iMCAwIDEwIDEwIj4KICA8cGF0aCBkPSJNIDQuNzY1LjQ1N0MuOTc1LjQ1NyAwIDQuNTUyLjk3NSA0Ljc2MyAwbDQuNzYyIDQuNzYyLTQuNzY0IDQuNzYzYy0uOTc1LS45NzUtMS45NzUtLjk3NS0zLjk3NCAwLS45NzUtLjk3NS0uOTc1LTMuOTc1IDAtLjk3NSAxLjk3NS0uOTc1IDMuOTc1czEuOTc1Ljk3NSAzLjk3NSAuOTc1Ljk3NSAzLjk3NXoiLz4KPC9zdmc+Cg==)](https://yaml.org/)
-, hay un poco de todo para que te entretengas.
-
 # Mi estadísticas de GitHub 📊
 
 Algunas estadísticas interesantes sobre mi actividad en GitHub:
@@ -57,7 +41,19 @@ Algunas estadísticas interesantes sobre mi actividad en GitHub:
 
 </div>
 
+## My Badges
+
+<div align="center" style="margin: 20px 20px;">
+  
+<img width="224" alt="Captura de pantalla 2023-12-20 a las 20 52 08" src="https://github.com/Christianmendez1501/Christianmendez1501/assets/143126480/34083a85-b924-48d0-a55e-1390ee2bd36b">
+<img width="228" alt="Captura de pantalla 2023-12-20 a las 20 51 57" src="https://github.com/Christianmendez1501/Christianmendez1501/assets/143126480/dea76d3f-adc8-4187-8407-000194147a7b">
+<img width="236" alt="Captura de pantalla 2023-12-20 a las 20 51 44" src="https://github.com/Christianmendez1501/Christianmendez1501/assets/143126480/89aee527-e424-4e2b-8f63-0ce2b1c70e6d">
+<img width="232" alt="Captura de pantalla 2023-12-20 a las 13 10 47" src="https://github.com/Christianmendez1501/Christianmendez1501/assets/143126480/4652ab78-5917-47dc-b949-a2cbff11e52a">
+<img width="246" alt="Captura de pantalla 2023-12-20 a las 20 52 19" src="https://github.com/Christianmendez1501/Christianmendez1501/assets/143126480/c89b3171-f055-4415-a942-017acf32baf5">
+<img width="244" alt="Captura de pantalla 2023-12-21 a las 9 58 35" src="https://github.com/Christianmendez1501/Christianmendez1501/assets/143126480/9781210f-38ae-4391-ac25-0733f3e26ecb">
+
+</div>
+
 ## Conectemos
 
 [<img width="287" alt="Captura de pantalla 2023-12-20 a las 18 19 53" src="https://github.com/Christianmendez1501/Christianmendez1501/assets/143126480/e50f15da-0312-478b-a305-e89a274f189a">](https://www.linkedin.com/in/christianmendezhernandez/)
-
