@@ -37,7 +37,7 @@ Algunas estadísticas interesantes sobre mi actividad en GitHub:
 
 # ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Christianmendez1501&layout=compact) 
 
-[![Christian's GitHub stats](https://github-readme-stats.vercel.app/api?username=Christianmendez1501&show_icons=true&theme=radical)](https://github.com/Christianmendez1501)
+![Christian GitHub stats](https://github-readme-stats.vercel.app/api?username=Christianmendez1501\&bg_color=30,e96443,904e95\&title_color=fff\&text_color=fff)
 
 </div>
 
