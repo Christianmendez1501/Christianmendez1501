@@ -7,7 +7,7 @@
 ![cloud ENGINEER (4)](https://github.com/Christianmendez1501/Christianmendez1501/assets/143126480/75245f3f-a445-497c-bfc3-aa764d484202)
 
 
-## Herramientas con las que trabajo que me ayudan a redescubrir este universo del coding
+# The tools I work with that help me rediscover this coding universe.
 
 <div align="center" style="margin: 10px 0; display: flex; flex-wrap: wrap; justify-content: space-evenly;">
 
@@ -28,8 +28,12 @@
 
 </div>
 
+# My organization-project ⚙️
 
-# Mi estadísticas de GitHub 📊
+[![Customized Card](https://github-readme-stats.vercel.app/api/pin/?username=The-Bridge-Challenge&repo=CLOUD-DEVOPS&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515)](https://github.com/The-Bridge-Challenge/CLOUD-DEVOPS)
+
+
+# My stats 📊
 
 Algunas estadísticas interesantes sobre mi actividad en GitHub:
 
@@ -54,7 +58,7 @@ Algunas estadísticas interesantes sobre mi actividad en GitHub:
 
 </div>
 
-## Conectemos
+## Connect to view
 
 [<img width="287" alt="Captura de pantalla 2023-12-20 a las 18 19 53" src="https://github.com/Christianmendez1501/Christianmendez1501/assets/143126480/e50f15da-0312-478b-a305-e89a274f189a">](https://www.linkedin.com/in/christianmendezhernandez/)
 
