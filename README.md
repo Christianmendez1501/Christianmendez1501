@@ -30,20 +30,30 @@
 
 # My organization-project ⚙️
 
-[![Customized Card](https://github-readme-stats.vercel.app/api/pin/?username=The-Bridge-Challenge&repo=CLOUD-DEVOPS&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515)](https://github.com/The-Bridge-Challenge/CLOUD-DEVOPS)
+<div align="center" style="margin: 20px 20px;">
+  <a href="https://github.com/The-Bridge-Challenge/CLOUD-DEVOPS">
+    <img src="https://svg.bookmark.style/api?url=https://github.com/The-Bridge-Challenge/CLOUD-DEVOPS&mode=dark&style=horizontal" alt="The-Bridge-Challenge/CLOUD-DEVOPS">
+  </a>
+</div>
+
 
 
 # My stats 📊
 
 Algunas estadísticas interesantes sobre mi actividad en GitHub:
 
-<div align="center" style="margin: 20px 20px;">
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=christianmendez1501&layout=pie)](https://github.com/christianmendez1501/)
-
-![Christian GitHub stats](https://github-readme-stats.vercel.app/api?username=Christianmendez1501\&bg_color=30,e96443,904e95\&title_color=fff\&text_color=fff)
-
-</div>
+<table align="center" style="margin: 20px 20px;">
+  <tr>
+    <td align="center">
+      <a href="https://github.com/christianmendez1501/">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=christianmendez1501&layout=pie" alt="Top Langs">
+      </a>
+    </td>
+    <td align="center">
+      <img src="https://github-readme-stats.vercel.app/api?username=Christianmendez1501&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" alt="Christian GitHub stats">
+    </td>
+  </tr>
+</table>
 
 ## My Badges
 
