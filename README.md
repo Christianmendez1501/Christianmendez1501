@@ -56,16 +56,31 @@ Algunas estadísticas interesantes sobre mi actividad en GitHub:
 
 ## My Badges
 
-<div align="center" style="margin: 20px 20px;">
-  
-<img width="224" alt="Captura de pantalla 2023-12-20 a las 20 52 08" src="https://github.com/Christianmendez1501/Christianmendez1501/assets/143126480/34083a85-b924-48d0-a55e-1390ee2bd36b">
-<img width="228" alt="Captura de pantalla 2023-12-20 a las 20 51 57" src="https://github.com/Christianmendez1501/Christianmendez1501/assets/143126480/dea76d3f-adc8-4187-8407-000194147a7b">
-<img width="236" alt="Captura de pantalla 2023-12-20 a las 20 51 44" src="https://github.com/Christianmendez1501/Christianmendez1501/assets/143126480/89aee527-e424-4e2b-8f63-0ce2b1c70e6d">
-<img width="232" alt="Captura de pantalla 2023-12-20 a las 13 10 47" src="https://github.com/Christianmendez1501/Christianmendez1501/assets/143126480/4652ab78-5917-47dc-b949-a2cbff11e52a">
-<img width="246" alt="Captura de pantalla 2023-12-20 a las 20 52 19" src="https://github.com/Christianmendez1501/Christianmendez1501/assets/143126480/c89b3171-f055-4415-a942-017acf32baf5">
-<img width="244" alt="Captura de pantalla 2023-12-21 a las 9 58 35" src="https://github.com/Christianmendez1501/Christianmendez1501/assets/143126480/9781210f-38ae-4391-ac25-0733f3e26ecb">
+<table align="center" style="margin: 20px 20px;">
+  <tr>
+    <td align="center">
+      <img width="224" alt="Captura de pantalla 2023-12-20 a las 20 52 08" src="https://github.com/Christianmendez1501/Christianmendez1501/assets/143126480/34083a85-b924-48d0-a55e-1390ee2bd36b">
+    </td>
+    <td align="center">
+      <img width="228" alt="Captura de pantalla 2023-12-20 a las 20 51 57" src="https://github.com/Christianmendez1501/Christianmendez1501/assets/143126480/dea76d3f-adc8-4187-8407-000194147a7b">
+    </td>
+    <td align="center">
+      <img width="236" alt="Captura de pantalla 2023-12-20 a las 20 51 44" src="https://github.com/Christianmendez1501/Christianmendez1501/assets/143126480/89aee527-e424-4e2b-8f63-0ce2b1c70e6d">
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img width="232" alt="Captura de pantalla 2023-12-20 a las 13 10 47" src="https://github.com/Christianmendez1501/Christianmendez1501/assets/143126480/4652ab78-5917-47dc-b949-a2cbff11e52a">
+    </td>
+    <td align="center">
+      <img width="246" alt="Captura de pantalla 2023-12-20 a las 20 52 19" src="https://github.com/Christianmendez1501/Christianmendez1501/assets/143126480/c89b3171-f055-4415-a942-017acf32baf5">
+    </td>
+    <td align="center">
+      <img width="244" alt="Captura de pantalla 2023-12-21 a las 9 58 35" src="https://github.com/Christianmendez1501/Christianmendez1501/assets/143126480/9781210f-38ae-4391-ac25-0733f3e26ecb">
+    </td>
+  </tr>
+</table>
 
-</div>
 
 ## Connect to view
 
