@@ -27,16 +27,6 @@
 
 </div>
 
-# My organization-project ⚙️
-
-<div align="center" style="margin: 20px 20px;">
-  <a href="https://github.com/The-Bridge-Challenge/CLOUD-DEVOPS">
-    <img src="https://svg.bookmark.style/api?url=https://github.com/The-Bridge-Challenge/CLOUD-DEVOPS&mode=dark&style=horizontal" alt="The-Bridge-Challenge/CLOUD-DEVOPS">
-  </a>
-</div>
-
-
-
 # My stats 📊
 
 Algunas estadísticas interesantes sobre mi actividad en GitHub:
