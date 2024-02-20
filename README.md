@@ -34,15 +34,16 @@ Algunas estadísticas interesantes sobre mi actividad en GitHub:
 <table align="center" style="margin: 20px 20px;">
   <tr>
     <td align="center">
-      <a href="https://github.com/christianmendez1501/">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=christianmendez1501&layout=pie" alt="Top Langs">
-      </a>
+      <img src="https://github-readme-stats.vercel.app/api?username=Christianmendez1501&theme=dark" alt="Christian GitHub stats">
     </td>
     <td align="center">
-      <img src="https://github-readme-stats.vercel.app/api?username=Christianmendez1501&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" alt="Christian GitHub stats">
+      <a href="https://github.com/christianmendez1501/">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=christianmendez1501&layout=compact&hide=jupyter%20notebook&theme=dark&langs_count=15">
+      </a>
     </td>
   </tr>
 </table>
+
 
 ## My Badges
 
